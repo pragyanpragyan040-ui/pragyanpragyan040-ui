@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Pragyan 👋
 
-<!--
-**pragyanpragyan040-ui/pragyanpragyan040-ui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##  Aspiring Data Analyst
 
-Here are some ideas to get you started:
+🔹 Skilled in SQL and Power BI  
+🔹 Passionate about turning data into insights  
+🔹 Building real-world data analysis projects  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+##  My Projects
+
+### 🟢 Retail Sales Analysis
+- Analyzed retail dataset using SQL
+- Identified top regions, categories, and cities
+- Built interactive Power BI dashboard
+- Generated business insights for decision-making
+
+---
+
+##  Tools & Skills
+- SQL  
+- Power BI  
+- Excel  
+
+---
+
+## 📫 Connect with me
+- LinkedIn: www.linkedin.com/in/pragyan-saha-6158152a5
+
