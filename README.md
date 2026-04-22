@@ -10,7 +10,7 @@
 
 ##  My Projects
 
-### 🟢 Retail Sales Analysis
+###  Retail Sales Analysis
 - Analyzed retail dataset using SQL
 - Identified top regions, categories, and cities
 - Built interactive Power BI dashboard
